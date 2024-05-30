@@ -11,12 +11,12 @@ Highly motivated and results-oriented professional with over 20 years of develop
 
 ## Work Experience
 **Principal Solution Consultant @ Adobe (_December 2020 - Present_)**
-- Lead and analyze discovery sessions with users and client stakeholders to understand their use cases, system requirements, and pain points. Present key findings to users, executive stakeholders, and Adobe's product team, ensuring solutions address core user needs and business objectives.
-- Collaborate with the product team to prioritize development of new features and enhancements based on continuous customer feedback, ongoing discovery sessions, and customer interviews. This ensures product development aligns with market demands and user expectations.
-- Develop and present multi-solution architecture implementation plans to users and stakeholders. These plans leverage Adobe Experience Cloud solutions like AEM (Sites, Assets & Forms), Adobe Target, and Adobe Analytics, creating customized and integrated solutions that address specific client challenges.
-- Create and present custom demos and integrations for the Adobe Experience Manager platform using Java and full-stack development skills (React, HTML, CSS, JavaScript). This allows stakeholders to visualize the potential of proposed solutions.
-- Effectively present demos and product architecture to both developers and stakeholders, tailoring communication style to each audience.
-- Build headless applications using jQuery, enabling seamless integration of content management systems (CMS) with front-end applications.
+- **Drive User-Centric Solutions:** Lead and analyze discovery sessions to understand user needs, system requirements, and pain points. Present key findings to all stakeholders, ensuring solutions address core user goals and business objectives.
+- **Bridge the Gap Between Customers and Product Development:** Collaborate with the product team to prioritize features and enhancements based on continuous customer feedback, ensuring product development aligns with market demands and user expectations.
+- **Architect Integrated Solutions:** Develop and present multi-solution architecture plans leveraging Adobe Experience Cloud (AEM, Target, Analytics) to create customized and integrated solutions that solve specific client challenges.
+- **Craft Compelling Demos & Integrations:** Build and showcase custom demos and integrations for the AEM platform using Java and full-stack development skills (React, HTML, CSS, JavaScript), allowing stakeholders to visualize the potential of proposed solutions.
+- **Tailored Communication:** Effectively present demos and product architecture to both developers and stakeholders, adapting communication style for optimal understanding.
+Headless Expertise: Build headless applications using jQuery for seamless CMS (Content Management System) integration with front-end applications.
 
 
 **Technical Architect @ Adobe (_May 2016 - December 2020_)**
