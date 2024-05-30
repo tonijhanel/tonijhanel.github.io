@@ -58,6 +58,8 @@ Developed a deeper understanding of consultant needs and desired functionalities
 ## Data Science and Machine Learning Coursework
 - Python Foundations | THe University of Texas at Austin
 - Machine Learning | THe University of Texas at Austin
+- [Supervised Learning with scikit-learn] (https://www.datacamp.com/completed/statement-of-accomplishment/course/3f0269a5aa58df6a06095cf8ac5388cc75e2cb84) | Datacamp
+- [Exploratory Data Analysis in Python] (https://www.datacamp.com/completed/statement-of-accomplishment/course/fae488ab99517e5e2df420ef3935dfda96752036) | Datacamp
 - [Programming for Data Science with Python](https://www.udacity.com/certificate/e/60a9e414-a8f0-11ee-91c2-d3030dcad728) | Udacity Nanodegree Program
 - [Introduction to Data Analysis with Pandas and NumPy](https://learn.udacity.com/view-certificate/cd12529) | Udacity
 - [Introduction to Python](https://learn.udacity.com/view-certificate/cd0024) | Udacity
