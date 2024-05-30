@@ -1,5 +1,5 @@
-# Machine Learning Engineer 
-(In Transition) 
+# Software Developer Bridging the Gap to Machine Learning
+Highly motivated and results-oriented professional with over 20 years of development experience seeking to leverage a Master's in Data Science and recent coursework in UX Research, Data Analysis, and Machine Learning to transition into a Machine Learning role.
 
 #### Technical Skills: JAVA, Python, SQL, Adobe Experience Manager, Full Stack Development
 
