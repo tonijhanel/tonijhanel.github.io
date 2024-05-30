@@ -4,7 +4,7 @@
 #### Technical Skills: JAVA, Python, SQL, Adobe Experience Manager, Full Stack Development
 
 ## Education
-- Post Graduate Machine Learning and AI | Univesity of Texas Austing
+- Post Graduate Machine Learning and AI | Univesity of Texas Austing (Projected completion October 2024)
 - Certificate Program in UX Research | The Interaction Design Foundation						       		
 - M.S., Data Science	| Georgia State University	 			        		
 - B.S., Psychology | Louisiana State University 
