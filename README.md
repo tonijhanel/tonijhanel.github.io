@@ -47,15 +47,18 @@ Gathered insights into the current demo creation process, identifying challenges
 Developed a deeper understanding of consultant needs and desired functionalities for a more efficient and repeatable demo creation process.
 
 
-## Talks & Lectures
+## Skills
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+
+## Tools and Languages
+- AEM Sites, Assets and Forms
+- SQL, Power BI, Adobe Analytics
+- Adobe Target, Google Analytics
+- Python, JAVA, HTML, CSS, JavaScript, jQuery, React
+- graphQL, Figma, Adobe XD
+- Adobe Photoshop, Illustrator and Sketchup 3D
 
 
-
-## Publications
+## Relevant Coursework
 
