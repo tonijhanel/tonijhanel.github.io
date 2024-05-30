@@ -46,11 +46,6 @@ Observed solution consultants while they created demos to gain firsthand underst
 Gathered insights into the current demo creation process, identifying challenges and opportunities for optimization.
 Developed a deeper understanding of consultant needs and desired functionalities for a more efficient and repeatable demo creation process.
 
-
-## Skills
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-
 ## Tools and Languages
 - AEM Sites, Assets and Forms
 - SQL, Power BI, Adobe Analytics
