@@ -26,20 +26,25 @@
 - Successfully delivered a 1 million-dollar AEM Forms conversion project through a combined approach requirements gathering, technical leadership, and developer team management. My leadership ensured efficient resource allocation and clear communication, leading to project success
 - Led a team of developers as a Development Lead, providing technical guidance, mentoring, and ensuring project milestones were met.
 
-**Independent Senior Full-Stack Developer (2000 -2016)
+**Independent Senior Full-Stack Developer (2000 -2016)**
 - Led a team of developers as a Development Lead, providing technical guidance, mentoring, and ensuring project milestones were met.
-- 
+- Delivered exceptional user experiences with custom web portals built using AEM Sites Framework. Implemented complex and dynamic workflows leveraging Process Management Systems.
+- Designed and implemented custom APIs to facilitate communication between different applications and services, enabling data exchange and functionality extension.
+- Developed and maintained backend applications using Java. This included integrating with relational databases, building custom APIs, and crafting complex middle-tier application processes.
+- Designed and developed engaging and interactive user interfaces using JavaScript, jQuery, CSS, and HTML.
+- Integrated applications with various relational databases, including SQL Server, Oracle, and MySQL. This ensured efficient data exchange and manipulation.
+
+
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Home improvement VLOG feasiblity study
+Conducted a user research case study using semi-structured interviews, card sorting, and contextual interviews to evaluate the feasibility of a cooking and home-improvement VLOG targeted towards domestic partners.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
+### Streamlining AEM Demo Creation for Solution Consultants
+Conducted in-depth discussions with solution consultants to explore their current demo creation process, including resources used, pain points, and desired functionalities.
+Observed solution consultants while they created demos to gain firsthand understanding of their workflow and identify potential areas for improvement.
+Gathered insights into the current demo creation process, identifying challenges and opportunities for optimization.
+Developed a deeper understanding of consultant needs and desired functionalities for a more efficient and repeatable demo creation process.
 
 
 ## Talks & Lectures
