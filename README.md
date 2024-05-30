@@ -4,20 +4,31 @@
 #### Technical Skills: JAVA, Python, SQL, Adobe Experience Manager, Full Stack Development
 
 ## Education
-- Post Graduate Machine Learning and AI | Univesity of Texas Austing (Projected completion October 2024)
+- Post Graduate Machine Learning and AI | Univesity of Texas Austing (Expected Completion: September 2024)
 - Certificate Program in UX Research | The Interaction Design Foundation						       		
 - M.S., Data Science	| Georgia State University	 			        		
 - B.S., Psychology | Louisiana State University 
 
 ## Work Experience
 **Principal Solution Consultant @ Adobe (_December 2020 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Lead and analyze discovery sessions with users and client stakeholders to understand their use cases, system requirements, and pain points. Present key findings to users, executive stakeholders, and Adobe's product team, ensuring solutions address core user needs and business objectives.
+- Collaborate with the product team to prioritize development of new features and enhancements based on continuous customer feedback, ongoing discovery sessions, and customer interviews. This ensures product development aligns with market demands and user expectations.
+- Develop and present multi-solution architecture implementation plans to users and stakeholders. These plans leverage Adobe Experience Cloud solutions like AEM (Sites, Assets & Forms), Adobe Target, and Adobe Analytics, creating customized and integrated solutions that address specific client challenges.
+- Create and present custom demos and integrations for the Adobe Experience Manager platform using Java and full-stack development skills (React, HTML, CSS, JavaScript). This allows stakeholders to visualize the potential of proposed solutions.
+- Effectively present demos and product architecture to both developers and stakeholders, tailoring communication style to each audience.
+- Build headless applications using jQuery, enabling seamless integration of content management systems (CMS) with front-end applications.
 
-**Technical Architect @ Adobe (_May 2020 - December 2020_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
+**Technical Architect @ Adobe (_May 2016 - December 2020_)**
+- Led the design, integration, and requirements research for Adobe Experience Manager and Adobe Marketing Cloud solutions, ensuring optimal user experience and technical feasibility.
+- Managed large-scale projects with multiple developers, utilizing user research findings to inform architecture and integration decisions. As a development lead, I effectively planned and coordinated resources, ensuring project success
+- Created and delivered architecture and integration diagrams, development documents, and solution design plans based on user research insights. In my role as development lead, I ensured these deliverables were clear and actionable for the team.
+- Successfully delivered a 1 million-dollar AEM Forms conversion project through a combined approach requirements gathering, technical leadership, and developer team management. My leadership ensured efficient resource allocation and clear communication, leading to project success
+- Led a team of developers as a Development Lead, providing technical guidance, mentoring, and ensuring project milestones were met.
+
+**Independent Senior Full-Stack Developer (2000 -2016)
+- Led a team of developers as a Development Lead, providing technical guidance, mentoring, and ensuring project milestones were met.
+- 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
