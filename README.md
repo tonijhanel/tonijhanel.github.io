@@ -55,5 +55,9 @@ Developed a deeper understanding of consultant needs and desired functionalities
 - Adobe Photoshop, Illustrator and Sketchup 3D
 
 
-## Relevant Coursework
+## Datascience and Machine Learning Coursework
+- [Programming for Data Science with Python](https://www.udacity.com/certificate/e/60a9e414-a8f0-11ee-91c2-d3030dcad728) | Udacity Nanodegree Program
+
+
+
 
