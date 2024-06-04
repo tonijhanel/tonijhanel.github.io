@@ -64,7 +64,7 @@ Developed a deeper understanding of consultant needs and desired functionalities
 - [Introduction to Data Analysis with Pandas and NumPy](https://learn.udacity.com/view-certificate/cd12529) | Udacity
 - [Introduction to Python](https://learn.udacity.com/view-certificate/cd0024) | Udacity
 
-| Course    | School |
+
 | -------- | ------- |
 | Python Foundations  | The University of Texas at Austin   |
 | Machine Learning | The University of Texas at Austin   |
