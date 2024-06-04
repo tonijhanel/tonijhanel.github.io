@@ -68,7 +68,7 @@ Developed a deeper understanding of consultant needs and desired functionalities
 | -------- | ------- |
 | Python Foundations  | The University of Texas at Austin   |
 | Machine Learning | The University of Texas at Austin   |
-| [Supervised Learning with scikit-learn] (https://www.datacamp.com/completed/statement-of-accomplishment/course/3f0269a5aa58df6a06095cf8ac5388cc75e2cb84)    | Datacamp    |
+| [Supervised Learning with scikit-learn](https://www.datacamp.com/completed/statement-of-accomplishment/course/3f0269a5aa58df6a06095cf8ac5388cc75e2cb84)    | Datacamp    |
 
 
 
