@@ -7,7 +7,7 @@ Highly motivated and results-oriented professional with over 20 years of develop
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-| Post Graduate Machine Learning and AI  | Univesity of Texas Austing (Expected Completion: September 2024)   |
+| Post Graduate Machine Learning and AI  | Univesity of Texas Austin (Expected Completion: September 2024)   |
 | Certificate Program in UX Research  | The Interaction Design Foundation   |
 | M.S. Data Science  | Georgia State University   |
 | B.S. Psychology  | Louisiana State University |
